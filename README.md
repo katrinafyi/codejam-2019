@@ -3,6 +3,8 @@ kaitrna (3rd)
 
 In file names, "score" is a fraction of 1.0.
 
+https://www.hackerrank.com/contests/uqcs-codejam-2019/leaderboard
+
 | # | Challenge | Score (Time) |
 |---|-----------|--------------|
 | 1 | Example Two Sum | 4.00pts (6:32) |
